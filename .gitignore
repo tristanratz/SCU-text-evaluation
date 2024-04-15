@@ -1,0 +1,15 @@
+.DS_store
+venv
+node_modules
+amrlib/build
+.idea
+model_parse_*
+model_generate_*
+__pycache__
+amrlib
+amr-utils
+Yale-LILY-SummEval-*
+api_key.txt
+old
+.env
+**/eval_interface/*
