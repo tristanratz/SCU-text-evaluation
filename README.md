@@ -21,7 +21,7 @@ python3 intrinsic_evaluation.py
 
 # Cite
 
-```latex
+```
 @inproceedings{nawrath-etal-2024-role,
     title = "On the Role of Summary Content Units in Text Summarization Evaluation",
     author = "Nawrath, Marcel  and
